@@ -37,9 +37,5 @@ To deploy the project, you can use platforms like GitHub Pages, Netlify, or Verc
 
 Distributed under the MIT License. See \`LICENSE\` for more information.
 
-## 📞 Contact
-
-Juan Pablo Reviglio - [Your Email] - [Your LinkedIn]
-
 Project Link: [https://github.com/Juampi-Revi/CloneApplePage](https://github.com/Juampi-Revi/CloneApplePage)  
 Live Demo: [https://proyect-react-gsap.netlify.app/](https://proyect-react-gsap.netlify.app/)
