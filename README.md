@@ -33,30 +33,6 @@ You can view the project live [here](https://proyect-react-gsap.netlify.app/).
 
 To deploy the project, you can use platforms like GitHub Pages, Netlify, or Vercel.
 
-## 📂 Project Structure
-
-\`\`\`
-├── index.html        # Main HTML file
-├── css
-│   ├── styles.css    # Main stylesheet
-├── js
-│   ├── app.js        # Main JavaScript file
-├── assets
-│   ├── images        # Image files
-│   ├── models        # 3D models used in the project
-└── sentry-config.js  # Sentry integration configuration
-\`\`\`
-
-## 🤝 Contributing
-
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-1. Fork the Project
-2. Create your Feature Branch (\`git checkout -b feature/AmazingFeature\`)
-3. Commit your Changes (\`git commit -m 'Add some AmazingFeature'\`)
-4. Push to the Branch (\`git push origin feature/AmazingFeature\`)
-5. Open a Pull Request
-
 ## 📝 License
 
 Distributed under the MIT License. See \`LICENSE\` for more information.
@@ -67,4 +43,3 @@ Juan Pablo Reviglio - [Your Email] - [Your LinkedIn]
 
 Project Link: [https://github.com/Juampi-Revi/CloneApplePage](https://github.com/Juampi-Revi/CloneApplePage)  
 Live Demo: [https://proyect-react-gsap.netlify.app/](https://proyect-react-gsap.netlify.app/)
-EOF
