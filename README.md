@@ -29,63 +29,9 @@ You can view the project live [here](https://proyect-react-gsap.netlify.app/).
 - **[Sentry](https://sentry.io/):** For error tracking and monitoring.
 - **Git & GitHub** ![GitHub Icon](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-Before you begin, ensure you have the following installed on your system:
-
-- [Node.js](https://nodejs.org/) ![Node.js Icon](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-- [Git](https://git-scm.com/) ![Git Icon](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Installation
-
-Clone the repository:**
-   ```bash
-   git clone https://github.com/Juampi-Revi/CloneApplePage.git
-
-   ```bash
-# CloneApplePage
-
-## Getting Started
-
-### Navigate to the project directory:
-
-\`\`\`bash
-cd CloneApplePage
-\`\`\`
-
-### Install dependencies
-
-If your project uses any package managers (like npm or yarn), run:
-
-\`\`\`bash
-npm install
-\`\`\`
-
-or
-
-\`\`\`bash
-yarn install
-\`\`\`
-
-### Start the development server
-
-To start the development server, run:
-
-\`\`\`bash
-npm start
-\`\`\`
-
-Alternatively, you can simply open the \`index.html\` file in your browser.
-
 ## Deployment
 
 To deploy the project, you can use platforms like GitHub Pages, Netlify, or Vercel.
-
-## 🖼 Screenshots
-
-[Insert screenshots here]
 
 ## 📂 Project Structure
 
